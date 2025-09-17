@@ -1,0 +1,1 @@
+[![Build C++](https://github.com/apartridge16/MyFirstExample/actions/workflows/build.yml/badge.svg?branch=ci%2Fcd)](https://github.com/apartridge16/MyFirstExample/actions/workflows/build.yml)
